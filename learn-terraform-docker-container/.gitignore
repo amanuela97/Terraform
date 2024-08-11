@@ -1,0 +1,13 @@
+# Terraform files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfstate.*
+crash.log
+
+# Terraform plugin binaries
+*.bin
+
+# Environment-specific files
+*.log
